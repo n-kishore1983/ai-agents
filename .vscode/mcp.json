@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"travel-mcp-server": {
+			"url": "http://localhost:8080/sse",
+			"type": "http"
+		},
+		"youtube-mcp-server": {
+			"url": "http://localhost:8082/sse",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
