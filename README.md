@@ -76,6 +76,11 @@ The agent instructions in `travel.agent.md` define the booking flow and tool usa
 }
 ```
 
+### MCP server repositories
+
+- [travel-planner-mcp](https://github.com/n-kishore1983/travel-planner-mcp)
+- [youtube-mcp](https://github.com/n-kishore1983/youtube-mcp)
+
 ## Key features
 
 - Intelligent flight search with business class prioritized
