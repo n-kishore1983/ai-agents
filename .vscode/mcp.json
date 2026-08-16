@@ -7,6 +7,10 @@
 		"youtube-mcp-server": {
 			"url": "http://localhost:8082/sse",
 			"type": "http"
+		},
+		"ai-hoa-support": {
+			"url": "http://localhost:8083/sse",
+			"type": "http"
 		}
 	},
 	"inputs": []
